@@ -8,7 +8,7 @@ class Home extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       body: Center(
-        child: Text('A bientot', style: TextStyle(color: Colors.black, fontSize: 30)),
+        child: Text("A bientôt n'oubliez pas de passez commande ", style: TextStyle(color: Colors.black, fontSize: 30)),
       ),
     );
   }
